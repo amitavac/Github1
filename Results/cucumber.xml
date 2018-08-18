@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="17.701904">
+<testcase classname="Google Search" name="Search Something" time="17.701904">
+<skipped><![CDATA[Given I am on google home page..............................................passed
+When I enter "Amitava Chowdhury" in search box..............................passed
+Then I should see search result.............................................passed
+And I verify results........................................................pending
+]]></skipped>
+</testcase>
+</testsuite>
